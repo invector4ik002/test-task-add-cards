@@ -1,0 +1,19 @@
+
+.сolumn-cards__btn-cancel {
+  /* width: 54px; */
+  position: relative;
+  border: none;
+  outline: none;
+  margin: 0 0 0 51px;
+  padding: 0;
+  background-color: #D4D4D4;
+  line-height: 18px;
+  color: #626262;
+  cursor: pointer;
+}
+.сolumn-cards__btn-cancel-svg {
+  margin: 0 13px 0 0;
+  position: absolute;
+  top:1px;
+  right: 45px;
+}

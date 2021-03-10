@@ -1,0 +1,20 @@
+.сolumn-cards__btn {
+  width: 234px;
+  border: none;
+  position: relative;
+  margin: 12px 0 0 0;
+  outline: none;
+  padding: 7px 12px 7px 36px;
+  background-color: #D4D4D4;
+}
+.сolumn-cards__btn-svg {
+  position: absolute;
+  top: 7px;
+  left: 11px;
+  width: 14px;
+  height: 14px;  
+}
+.сolumn-cards__btn_hover:hover {
+  background-color: #C4C4C4;
+  cursor: pointer;
+}

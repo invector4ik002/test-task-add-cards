@@ -1,0 +1,41 @@
+
+.board {
+  min-width: 996px;
+  outline: 2px solid blue;
+  background-color: #1D8B77;
+  padding: 36px 24px 36px 0;
+}
+
+.board_flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.board__сolumn-cards {
+  width: 300px;
+  background-color: #D4D4D4;
+  border-radius: 5px;
+  margin-left: 24px;
+  padding: 12px 12px 8px 12px;
+}
+.board__сolumn-cards_flex {
+  display: flex;
+  flex-direction: column;
+}
+.сolumn-cards__btn-add-card {
+  width: 160px;
+  border: none;
+  outline: none;
+  margin: 12px 0 0 0;
+  padding: 7px 0 7px 0;
+  background-color: #0C7CD5;
+  border-radius: 3px;
+  font-size: 15px;
+  line-height: 18px;
+  color: #FFFFFF;
+  text-align: center;
+  cursor: pointer;
+}
+/* .board__сolumn-textarea-wrap {
+  width: 300px;
+} */
